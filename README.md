@@ -1,6 +1,6 @@
 #  Arcadia
 
-Arcadia Geek es una red social inspirada en Pinterest, pero diseñada específicamente para la comunidad friki: artistas, ilustradores y creadores de contenido de anime, manga, videojuegos, libros y moda.
+Arcadia es una red social inspirada en Pinterest, pero diseñada específicamente para la comunidad friki: artistas, ilustradores y creadores de contenido de anime, manga, videojuegos, libros y moda.
 
 ##  Funcionalidades
 
