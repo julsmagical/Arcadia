@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Arcadia.Application/Arcadia.Application.csproj" />
+  <Project Path="Arcadia.Domain/Arcadia.Domain.csproj" />
+  <Project Path="Arcadia.Infrastructure/Arcadia.Infrastructure.csproj" />
+  <Project Path="Arcadia.Shared/Arcadia.Shared.csproj" />
+  <Project Path="Arcadia.WebApi/Arcadia.WebApi.csproj" />
+</Solution>
